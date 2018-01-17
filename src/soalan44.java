@@ -24,5 +24,6 @@ public static void main(String[] args) {
                 System.out.println("Gred yang diperolehi sama");
     if (sains!=math) // also CORRECT>
                 System.out.println("Gred yang diperolehi tidak sama");
+    System.out.println("tahniah!");
     } 
 }
